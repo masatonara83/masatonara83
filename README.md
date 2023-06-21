@@ -11,4 +11,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatonara83)
 
 ## 🏆 Github Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=masatonara83&theme=buddhism&no-frame=true])
+![trophy](https://github-profile-trophy.vercel.app/?username=masatonara83&theme=buddhism&no-frame=true&column=-1])
