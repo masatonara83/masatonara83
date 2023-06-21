@@ -1,12 +1,13 @@
-### Hi! I am a Japanese engineer. 👋
+### Hi! 👋
+### I am a Japanese engineer. 
 
-## 🌱　My skills
+## 💻 My skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,rust,react,ts,js,html,css,mysql,postgres)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masatonara83&layout=donut)](https://github.com/masatonara83/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatonara83&show_icons=true&theme=transparent)]
-
+## 📈 MyStatus
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masatonara83&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatonara83)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **masatonara83/masatonara83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
