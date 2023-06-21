@@ -4,7 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,rust,react,ts,js,html,css,mysql,postgres)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatonara83&show_icons=true&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatonara83&show_icons=true&theme=transparent)]
 
 <!--
 **masatonara83/masatonara83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
