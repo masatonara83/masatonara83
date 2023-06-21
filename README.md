@@ -1,7 +1,6 @@
 # 🌸 MASATONARA83
 
-#### Hi! 👋
-#### I am a Japanese engineer. 
+#### Hi! 👋  I am a Japanese engineer. 
 
 ## 💻 My skills
 
