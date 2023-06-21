@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatonara83)]
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=masatonara83&theme=flat])]
+[![trophy](https://github-profile-trophy.vercel.app/?username=masatonara83&theme=flat&row=2])]
 <!--
 **masatonara83/masatonara83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
