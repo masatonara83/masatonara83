@@ -4,7 +4,7 @@
 
 ## 💻 My skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,rust,react,ts,js,html,css,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,react,ts,wasm,js,html,css,mysql,postgres)](https://skillicons.dev)
 
 ## 📈 MyStatus
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masatonara83&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
