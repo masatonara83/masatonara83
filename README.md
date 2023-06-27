@@ -34,7 +34,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=masatonara83&theme=buddhism&no-frame=true&column=-1])
 
 ## 🌱 contributions
-<div>
+
   ![github-contribution-grid-snake](https://raw.githubusercontent.com/masatonara83/masatonara83/master/img/snake.svg) 
-</div>
+
 
