@@ -35,6 +35,6 @@
 
 ## 🌱 contributions
 
-  ![github-contribution-grid-snake](https://raw.githubusercontent.com/masatonara83/masatonara83/master/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/masatonara83/masatonara83/master/img/snake.svg) 
 
 
